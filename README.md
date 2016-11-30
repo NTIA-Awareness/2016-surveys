@@ -7,8 +7,8 @@ Anonymized data &amp; analysis code from the NTIA AAG Researcher and Vulnerabili
 The `data` directory has three files:
 
 * `survey-results.xlsx` - A Microsoft Excel document with anonymized survey results from both surveys
-* `vm-survey-results.csv` - A UTF-8 plain-text CSV file with anonymized survey results from the 2016 vulnerability management survey
-* `rsrchr-survey-results.csv` - A UTF-8 plain text CSV file with anonymized survey results from the 2016 researcher survey
+* `vm-survey-results.csv` - A UTF-8 CSV file with anonymized survey results from the 2016 vulnerability management survey
+* `rsrchr-survey-results.csv` - A UTF-8 CSV file with anonymized survey results from the 2016 researcher survey
 
 ## Working Group Background
 
