@@ -1,4 +1,4 @@
-# 2016-surveys
+# NTIA Awarenes & Adoption Group 2016 Surveys
 
 Anonymized data &amp; analysis code from the NTIA AAG Researcher and Vulnerability Management Surveys
 
